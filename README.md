@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤠 Red Dead Redemption 2 — Interactive Map
+#  Red Dead Redemption 2 — Interactive Map
 
 <p>
   <b>Um guia visual e interativo completo para desbravar o Velho Oeste.</b>
