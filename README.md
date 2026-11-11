@@ -25,7 +25,7 @@
 
 Este projeto consiste em um site inspirado no jogo **Red Dead Redemption 2**, desenvolvido para criar um mapa interativo que ajude os jogadores a encontrar conteúdos importantes espalhados pelo vasto mundo do jogo.
 
-A plataforma funciona como um **guia prático de exploração**, reunindo informações essenciais em um único lugar para facilitar a busca de itens, locais e segredos durante a jornada — sendo ideal tanto para iniciantes quanto para quem busca os **100% de conclusão**.
+A plataforma funciona como um **guia prático de exploração**, reunindo informações essenciais em um único lugar para facilitar a busca de itens, locais e segredos durante a jornada 
 
 ---
 
