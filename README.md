@@ -15,7 +15,7 @@
 <br />
 
 <!-- Substitua o link abaixo por uma imagem real do seu projeto -->
-<img src="interativo.jpg" alt="Project Banner" width="100%" />
+<img src="interativo.jpg" alt="Project Banner" width="50%" height="50%" />
 
 </div>
 
