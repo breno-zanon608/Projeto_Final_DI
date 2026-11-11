@@ -15,7 +15,7 @@
 <br />
 
 <!-- Substitua o link abaixo por uma imagem real do seu projeto -->
-<img src="https://via.placeholder.com/800x400/3E2723/FFF?text=Red+Dead+Redemption+2+Interactive+Map" alt="Project Banner" width="100%" />
+<img src="interativo" alt="Project Banner" width="100%" />
 
 </div>
 
