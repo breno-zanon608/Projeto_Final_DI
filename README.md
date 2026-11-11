@@ -1,33 +1,77 @@
-Red Dead Redemption 2 – Interactive Map
+<div align="center">
 
-Sobre o projeto
+# 🤠 Red Dead Redemption 2 — Interactive Map
 
-Este projeto consiste em um site inspirado no jogo Red Dead Redemption 2, desenvolvido com o objetivo de criar um mapa interativo que ajude os jogadores a encontrar conteúdos importantes espalhados pelo mundo do jogo.
+<p>
+  <b>Um guia visual e interativo completo para desbravar o Velho Oeste.</b>
+</p>
 
-A plataforma funcionará como um guia de exploração, reunindo informações em um único lugar para facilitar a busca por diferentes elementos.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-Funcionalidades
+<br />
 
-Mapa interativo: visualização do mundo do jogo com marcadores.
+<!-- Substitua o link abaixo por uma imagem real do seu projeto -->
+<img src="https://via.placeholder.com/800x400/3E2723/FFF?text=Red+Dead+Redemption+2+Interactive+Map" alt="Project Banner" width="100%" />
 
-Animais lendários: localização dos animais lendários.
+</div>
 
-Armas: indicação de onde encontrar diferentes armas.
+---
 
-Missões perdíveis: localização de missões secundárias que podem ser perdidas durante a campanha.
+## 📌 Sobre o Projeto
 
-Cidades: identificação das principais cidades e localidades.
+Este projeto consiste em um site inspirado no jogo **Red Dead Redemption 2**, desenvolvido para criar um mapa interativo que ajude os jogadores a encontrar conteúdos importantes espalhados pelo vasto mundo do jogo.
 
-Filtros e pesquisa: ferramentas para encontrar rapidamente os conteúdos desejados.
+A plataforma funciona como um **guia prático de exploração**, reunindo informações essenciais em um único lugar para facilitar a busca de itens, locais e segredos durante a jornada — sendo ideal tanto para iniciantes quanto para quem busca os **100% de conclusão**.
 
-Tecnologias utilizadas
+---
 
-HTML5 – Estrutura do site.
+## ⚡ Funcionalidades
 
-CSS3 – Estilização e identidade visual.
+- 🗺️ **Mapa Interativo:** Visualização do mundo do jogo com marcadores categorizados e detalhados.
+- 🐻 **Animais Lendários:** Localização exata para caça e rastreamento da fauna lendária.
+- ⚔️ **Armas:** Indicação precisa de onde encontrar diferentes armas e equipamentos raros.
+- ⏳ **Missões Perdíveis:** Localização e alertas sobre missões secundárias que podem ser perdidas no decorrer da campanha.
+- 🏙️ **Cidades:** Identificação rápida das principais cidades, povoados e localidades de interesse.
+- 🔍 **Filtros e Pesquisa:** Ferramentas de busca rápida para encontrar conteúdos específicos sem a necessidade de percorrer todo o mapa manualmente.
 
-JavaScript – Interatividade, filtros e funcionalidades do mapa.
+---
 
-Identidade visual
+## 🎨 Identidade Visual
 
-O design será inspirado no Velho Oeste, utilizando tons de marrom, verde floresta, bege e vermelho escuro, buscando representar a ambientação de Red Dead Redemption 2.
+O design foi totalmente inspirado no universo do Velho Oeste, priorizando uma atmosfera imersiva e agradável para a navegação:
+
+| Elemento Visual | Hex Code | Aplicação no Design |
+| :--- | :--- | :--- |
+| 🤎 **Marrom** | `#3E2723` | Estruturas principais, bordas e detalhes em tom de couro |
+| 🌲 **Verde Floresta** | `#1B4D3E` | Elementos de natureza, mapa e destaques |
+| 📜 **Bege** | `#F4EAE1` | Fundo de páginas e leitura estilo papel envelhecido |
+| 🩸 **Vermelho Escuro** | `#8B0000` | Ícones de destaque, botões e alertas importantes |
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5** – Estruturação semântica do site.
+- **CSS3** – Estilização temática, layout responsivo e identidade visual.
+- **JavaScript** – Interatividade do mapa, marcadores dinâmicos e sistema de pesquisa/filtros.
+
+---
+
+## 📸 Demonstração
+
+<div align="center">
+  <!-- Substitua a imagem abaixo por um print do mapa rodando -->
+  <img src="mapa.jpg" alt="Demonstração da Aplicação" width="90%" />
+</div>
+
+---
+
+## 🚀 Como Executar o Projeto
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/breno-zanon608/rdr2-interactive-map.git](https://github.com/breno-zanon608/rdr2-interactive-map.git)
