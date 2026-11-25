@@ -25,9 +25,9 @@ const itens = [
   { id: "w1", cat: "arma", nome: "Arma de exemplo 1", x: 30, y: 60, desc: "Substitua por uma arma real do jogo.", local: "A definir" },
   { id: "w2", cat: "arma", nome: "Arma de exemplo 2", x: 72, y: 55, desc: "Substitua por uma arma real do jogo.", local: "A definir" },
   //{ id: "m1", cat: "missao", nome: "Missão perdível dos pistoleiros lendários", x: 45, y: 40, desc: "Pode ser perdida ao avançar na história.", local: "Capítulo a definir" },
-  { id: "c1", cat: "cidade", nome: "Valentine", x: 52, y: 45, desc: "Cidade pecuária e ponto de partida do Capítulo 2.", local: "Heartlands" },
-  { id: "c2", cat: "cidade", nome: "Saint Denis", x: 75, y: 72, desc: "Maior cidade do jogo, industrial e movimentada.", local: "Lemoyne" },
-  { id: "c3", cat: "cidade", nome: "Blackwater", x: 44, y: 76, desc: "Cidade em expansão, no Capítulo 1 e no epílogo.", local: "West Elizabeth" }
+  { id: "c1", cat: "cidade", nome: "Valentine", x: 59, y: 35, desc: "Cidade pecuária e ponto de partida do Capítulo 2.", local: "Heartlands" },
+  { id: "c2", cat: "cidade", nome: "Saint Denis", x: 85, y: 55, desc: "Maior cidade do jogo, industrial e movimentada.", local: "Lemoyne" },
+  { id: "c3", cat: "cidade", nome: "Blackwater", x: 54, y: 55, desc: "Cidade em expansão, no Capítulo 1 e no epílogo.", local: "West Elizabeth" }
 ];
 const icone = { animal: "A", arma: "W", missao: "!", cidade: "C" };
 const nomeCat = { animal: "Animal lendário", arma: "Arma", missao: "Missão perdível", cidade: "Cidade" };
