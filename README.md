@@ -69,9 +69,3 @@ O design foi totalmente inspirado no universo do Velho Oeste, priorizando uma at
 </div>
 
 ---
-
-## 🚀 Como Executar o Projeto
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/breno-zanon608/rdr2-interactive-map.git](https://github.com/breno-zanon608/rdr2-interactive-map.git)
